@@ -6,7 +6,7 @@ Affirmaition Gen:
   - The goal is to generate a unique message for each day of the week based on the user's answers.
   - Use concatenation to generate the affirmation.
   - Final challenge: Can you create if statements that do not care about capital or lowercase letters of names
-- To demtnstrage:
+- To demonstrate:
   - Input and output
   - concatenation
   - if statements
